@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NIX3uKttj37verGVlEX47LyqXbVzN9rOFb36Df84vEeQy/leZ5CyAl/J532N+etvf+m5cU0tq7IbqaIBO1S4g==",
+  "success": true,
+  "projectFilePath": "/home/rukshan/Projects/DockerVolumeDemo/DockerVolumeDemo.csproj",
+  "expectedPackageFiles": [
+    "/home/rukshan/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

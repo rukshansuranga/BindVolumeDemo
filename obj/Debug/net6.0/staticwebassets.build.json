@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X1za8g/3f8q1Q+Y+2d53NlXBNNqWmF/M7iG8aGHC3j0=",
+  "Source": "DockerVolumeDemo",
+  "BasePath": "_content/DockerVolumeDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
